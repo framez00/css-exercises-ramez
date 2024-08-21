@@ -16,6 +16,7 @@ img {
 .plantCollection{
   display: flex;
   justify-content: space-between;
+  gap: 52px;
 }
 
 .item{
