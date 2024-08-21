@@ -3,13 +3,14 @@ body {
 }
 
 img {
-  width: 100px;
-  height: 100px;
+  width: 70px;
+  height: 70px;
 }
 
 .title {
   font-size: 36px;
   font-weight: 900;
+  
 }
 
 /* do not edit this footer */
@@ -23,4 +24,9 @@ img {
   align-items: center;
   justify-content: center;
   background: #eee;
+}
+
+.plantCollection{
+  display: flex;
+  justify-content: space-between;
 }
