@@ -13,6 +13,11 @@ img {
   text-align: center;
 }
 
+.plantCollection{
+  display: flex;
+  justify-content: space-between;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
@@ -24,9 +29,4 @@ img {
   align-items: center;
   justify-content: center;
   background: #eee;
-}
-
-.plantCollection{
-  display: flex;
-  justify-content: space-between;
 }
