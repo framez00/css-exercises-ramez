@@ -33,3 +33,18 @@ a{
   text-decoration: none;
   color:  rgb(148, 152, 162);
 }
+
+.header{
+  display: flex;
+  justify-content: space-between;
+}
+
+.header .left-links{
+  display: flex;
+  gap: 15px;
+}
+
+.header .right-links{
+  display: flex;
+  gap: 15px;
+}
