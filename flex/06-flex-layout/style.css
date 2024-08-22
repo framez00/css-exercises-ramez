@@ -57,7 +57,25 @@ a{
 
 
 .footer{
-  display: ;
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(238, 238, 238);
+  margin: 30px;
+  padding: 0;
+}
+
+.footer .left-links{
+  display: flex;
+  gap: 15px;
+  font-weight: bold;
+  margin-left: -20px;
+}
+
+.footer .right-links{
+  display: flex;
+  gap: 15px;
+  font-weight: bold;
+  margin-right: 20px;
 }
 
 
