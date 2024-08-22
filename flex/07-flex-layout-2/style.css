@@ -49,7 +49,7 @@ a{
 }
 
 .sidebar {
-  width: 350px;
+  width: 400px;
   background: royalblue;
   box-sizing: border-box;
   padding: 16px;
@@ -64,6 +64,7 @@ a{
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
   width: 350px;
-  height: 250px;
-  padding: 10px;
+  height: auto;
+  padding: 20px;
+  margin: 20px;
 }
