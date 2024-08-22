@@ -21,6 +21,7 @@ body {
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
   display: flex;
+  padding: 10px;
 }
 
 .icon {
@@ -54,6 +55,15 @@ body {
 .firstLine{
   display: flex;
   justify-content: space-between;
+}
+
+.header{
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.allText{
+  padding: 10px;
 }
 
 button {
