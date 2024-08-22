@@ -5,6 +5,9 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 img {
@@ -54,7 +57,7 @@ a{
 
 .content{
   text-align: center;
-  margin-top: 13%;
+  margin-top: 0%;
 }
 
 .buttons{
@@ -76,7 +79,8 @@ div.buttons button:nth-of-type(2){
   display: flex;
   justify-content: space-between;
   background-color: rgb(238, 238, 238);
-  margin: 30px;
+  margin-left: 30px;
+  margin-right: 30px;
   padding: 0;
 }
 
