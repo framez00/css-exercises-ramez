@@ -20,6 +20,7 @@ body {
   width: 480px;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
+  display: flex;
 }
 
 .icon {
@@ -48,6 +49,11 @@ body {
   justify-content: center;
   border: 1px solid #eee;
   padding: 0;
+}
+
+.firstLine{
+  display: flex;
+  justify-content: space-between;
 }
 
 button {
