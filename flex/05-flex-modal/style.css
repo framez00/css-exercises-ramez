@@ -29,7 +29,7 @@ body {
   font-size: 26px;
   font-weight: 700;
   background: lavender;
-  width: 42px;
+  width: 170px;
   height: 42px;
   border-radius: 50%;
   display: flex;
@@ -55,6 +55,8 @@ body {
 .firstLine{
   display: flex;
   justify-content: space-between;
+  margin-top: -5px;
+  margin-bottom: 10px;
 }
 
 .header{
@@ -64,6 +66,14 @@ body {
 
 .allText{
   padding: 10px;
+}
+
+.text{
+  margin-bottom: 15px;
+}
+
+.options{
+  margin-bottom: -5px;
 }
 
 button {
