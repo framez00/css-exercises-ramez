@@ -10,6 +10,11 @@ ul{
   list-style-type: none;
   margin-top: 20px;
   margin-bottom: 20px;
+  font-size: 20px;
+}
+
+ul li{
+  margin-bottom: 20px;
 }
 
 a{
