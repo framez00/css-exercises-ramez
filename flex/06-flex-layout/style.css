@@ -37,6 +37,7 @@ a{
 .header{
   display: flex;
   justify-content: space-between;
+  padding: 10px;
 }
 
 .header .left-links{
@@ -48,3 +49,29 @@ a{
   display: flex;
   gap: 15px;
 }
+
+.content{
+  text-align: center;
+  margin-top: 13%;
+}
+
+
+.footer{
+  display: ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
