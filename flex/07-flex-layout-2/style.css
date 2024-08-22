@@ -49,17 +49,21 @@ a{
 }
 
 .sidebar {
-  width: 300px;
+  width: 350px;
   background: royalblue;
   box-sizing: border-box;
   padding: 16px;
 }
 
 .allCards{
-
+  display: flex;
+  flex-wrap: wrap;
 }
 .card {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+  width: 350px;
+  height: 250px;
+  padding: 10px;
 }
